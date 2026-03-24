@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Patrick Lee</h1>
 <h3 align="center">Level III SWE Student @ McMaster University</h3>
 
-- 🌱 I’m currently learning **frontend development using Javascript and React**
+- I'm a Full Stack Software Developer Intern at The Home Depot utilizing Java (Spring Boot) to develop backend microservices and TypeScript (Angular) to build interactive UI features
+- I'm currently learning how to leverage AI agents and LLMs to streamline tech support processes for in-store associates
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
